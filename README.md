@@ -1,6 +1,6 @@
 # landing-page-3d-practice-coffee
 - 👋 Hi, I’m @OnickAhmed
-- This is a very noobish project to learn how they works
+- This is a practice project to learn how they works
 - 👀 I’m interested in learning new technologies as development was the shot for me everyway
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to get things under internet so than that become easier for our country people. There is lot more to do.
